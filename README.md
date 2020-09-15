@@ -6,3 +6,5 @@ interest
 * Stochastic Calculus
 * Bayesian Deep Learning
 * Programming (Recently R, Scala, C++)
+
+Now I develop "QuantJet" financial engineering library for Quant.
