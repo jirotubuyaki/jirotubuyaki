@@ -5,4 +5,4 @@ interest
 * Bayesian
 * Stochastic Calculus
 * Bayesian Deep Learning
-* Programming (Recently R Scala, C++)
+* Programming (Recently R, Scala, C++)
