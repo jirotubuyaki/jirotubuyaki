@@ -1,7 +1,8 @@
-<img src="https://github.com/jirotubuyaki/jirotubuyaki.github.io/blob/master/images/prefund.png" width=55%>  
+### Alpha Methods Project <img src="https://github.com/jirotubuyaki/jirotubuyaki.github.io/blob/master/images/prefund.png" width=55% align="right">  
+I research and develop financial intelligence softwares. I am interested in Bayesian and Stochastic calculus. I would like to contribute to the open source community. 
 
-### Alpha Methods Project
-I research and develop financial intelligence softwares. I am interested in Bayesian and Stochastic calculus. I would like to contribute to open source community.
-
- 
-
+interest
+* Bayesian
+* Stochastic Calculus
+* Bayesian Deep Learning
+* Programming (Recently R Scala, C++)
