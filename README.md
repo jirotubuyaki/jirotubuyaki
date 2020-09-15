@@ -1,4 +1,4 @@
-### Alpha Methods Project <img src="https://github.com/jirotubuyaki/jirotubuyaki.github.io/blob/master/images/prefund.png" width=55% align="right">  
+### Alpha Methods Project <img src="https://github.com/jirotubuyaki/jirotubuyaki/blob/master/prefund_name.png" width=40% align="right">  
 I research and develop financial intelligence softwares. I am interested in Bayesian and Stochastic calculus. I would like to contribute to the open source community. 
 
 interest
