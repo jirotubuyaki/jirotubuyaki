@@ -1,4 +1,4 @@
-<img src="https://github.com/jirotubuyaki/jirotubuyaki/blob/main/prefund_color.png" align="right" width="42%"> 
+<img src="https://github.com/jirotubuyaki/jirotubuyaki/blob/main/prefund_color.png" align="right" width="45%"> 
 
 ### Welcome to Masashi OKADA's Programming!
 * Bayesian
