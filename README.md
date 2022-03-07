@@ -4,4 +4,4 @@
 * Bayesian
 * Bayesian Deep Learning
 * Stochastic Calculus
-* Programming(Recently Scala, R, C++)
+* Programming (Recently Scala, R, C++)
