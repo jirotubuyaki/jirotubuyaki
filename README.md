@@ -3,5 +3,5 @@
 #### Welcome to Masashi OKADA's Programming! ![](https://komarev.com/ghpvc/?username=jirotubuyaki&color=blueviolet)  
 * Bayesian
 * Bayesian Deep Learning
-* Stochastic Ｃalculus
+* Stochastic Calculus
 * Programming(Recently Scala, R, C++)
