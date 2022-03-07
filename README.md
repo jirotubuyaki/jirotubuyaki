@@ -1,6 +1,6 @@
 <img src="https://github.com/jirotubuyaki/jirotubuyaki/blob/main/prefund_color.png" align="right" width="42%"> 
 
-### Welcome to Masashi OKADA's Programming! ![](https://komarev.com/ghpvc/?username=jirotubuyaki&color=blueviolet)  
+### Welcome to Masashi OKADA's Programming!
 * Bayesian
 * Bayesian Deep Learning
 * Stochastic Calculus
@@ -13,4 +13,6 @@
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="7%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="7%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="7%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="7%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="7%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="7%">
+
+ ![](https://komarev.com/ghpvc/?username=jirotubuyaki&color=blueviolet)  
 
