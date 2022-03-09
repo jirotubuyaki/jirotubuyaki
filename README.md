@@ -16,7 +16,7 @@
 
  ![](https://komarev.com/ghpvc/?username=jirotubuyaki&color=blueviolet)  
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=Jdmbs)](https://github.com/anuraghazra/github-readme-stats)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=CRPClustering)](https://github.com/anuraghazra/github-readme-stats)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=Random-Flower)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=Traffic-Simulator)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=Jdmbs)](https://github.com/jirotubuyaki/Jdmbs)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=CRPClustering)](https://github.com/jirotubuyaki/CRPClustering)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=Random-Flower)](https://github.com/jirotubuyaki/Random-Flower)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=Traffic-Simulator)](https://github.com/jirotubuyaki/Traffic-Simulator)
