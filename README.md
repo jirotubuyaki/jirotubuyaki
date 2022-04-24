@@ -1,6 +1,6 @@
-### Welcome to Masashi OKADA's Programming!
-<img src="https://github.com/jirotubuyaki/jirotubuyaki/blob/main/prefund_color.png" width="28%" align="right">  
+<img src="https://github.com/jirotubuyaki/jirotubuyaki/blob/main/prefund_color.png" width="26%" align="right">  
 
+### Welcome to Masashi OKADA's Programming!
 #### Activity - Mathematics and Softwares -
 * Bayesian
 * Bayesian Deep Learning
