@@ -5,7 +5,7 @@
 * Bayesian
 * Bayesian Deep Learning
 * Stochastic Calculus
-* Programming (Recently Scala, R, C++)
+* Programming (Recently Scala, Julia, R, C++)
 
 #### Recent Results
 * Apache PredictionIO PullRequests (Bayesian Nonparametric Chinese Restaurant Process Clustering)  [[URL]](https://github.com/apache/predictionio/pull/458)
