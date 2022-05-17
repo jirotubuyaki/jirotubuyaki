@@ -5,6 +5,7 @@
 * Bayesian
 * Bayesian Deep Learning
 * Stochastic Calculus
+* Mathematical Media Arts
 * Programming (Recently Scala, Julia, R, C++)
 
 #### Recent Results
