@@ -9,7 +9,7 @@
 * Programming (Recently Scala, Julia, R, C++)
 
 #### Recent Results
-* Apache PredictionIO PullRequests (Bayesian Nonparametric Chinese Restaurant Process Clustering)  [[URL]](https://github.com/apache/predictionio/pull/458)
+* Apache PredictionIO Pull Requests (Bayesian Nonparametric Chinese Restaurant Process Clustering)  [[URL]](https://github.com/apache/predictionio/pull/458)
 * R package CRAN accept (Monte Carlo Option Pricing Algorithms for Jump Diffusion Models with Correlational Companies)  [[URL]](https://cran.r-project.org/web/packages/Jdmbs/index.html)
 
 Thanks!!
