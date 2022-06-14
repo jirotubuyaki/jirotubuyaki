@@ -13,7 +13,7 @@
 * R package CRAN accept (Monte Carlo Option Pricing Algorithms for Jump Diffusion Models with Correlational Companies)  [[URL]](https://cran.r-project.org/web/packages/Jdmbs/index.html)
 
 
-#### The Project in Progress
+#### Project in Progress
 * Bayesian library by Julia & Scala. The repository is under my computer only.  
 
 Thanks!!
