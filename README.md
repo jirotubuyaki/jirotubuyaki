@@ -13,6 +13,6 @@
 
 
 #### Project in Progress
-* Bayesian library by Julia & Scala. The repository is under my computer only.  
+* Bayesian library by Julia & Scala. My purpose is contributing to the open source AI community.  
 
 Thanks!!
