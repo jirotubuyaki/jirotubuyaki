@@ -2,10 +2,9 @@
 
 ### Welcome to Masashi OKADA's Programming!
 #### Activity - Mathematics and Softwares -
-* Bayesian
-* Bayesian Deep Learning
+* Bayesian & Bayesian Deep Learning
 * Stochastic Calculus
-* Mathematical Media Arts
+* Mathematical Media Arts & Design
 * Programming (Recently Scala, Julia, R, C++)
 
 #### Recent Results
