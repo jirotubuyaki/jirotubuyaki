@@ -13,8 +13,14 @@ My field is machine learning software and library. Especially I wish to develop 
 * Apache PredictionIO Pull Requests (Bayesian Nonparametric Chinese Restaurant Process Clustering)  [[URL]](https://github.com/apache/predictionio/pull/458)
 * R package CRAN accept (Monte Carlo Option Pricing Algorithms for Jump Diffusion Models with Correlational Companies)  [[URL]](https://cran.r-project.org/web/packages/Jdmbs/index.html)
 
+## Thunder Bayes
+<p align="center">
+  <img src="https://jirotubuyaki.github.io/gimp/thunder.png" width="280px" alt="thunder"/>
+</p>
 
-#### Project in Progress
-* Bayesian library by Julia & Scala. My purpose is contributing to the open source AI community.  
+### Scalable Bayesian Library for Machine Learning
+We aim to develop bayesian nonparametric library by Scala & Julia. Lots of relate scientific papers are pubilshed.
+We organize the papers and develop useful library. Firstly We will implement clustering methods and aim to release the first alpha version.
+
 
 Thanks!!
