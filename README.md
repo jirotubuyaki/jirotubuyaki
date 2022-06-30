@@ -15,11 +15,11 @@ My field is machine learning software and library. Especially I wish to develop 
 
 ## Thunder Bayes
 <p align="center">
-  <img src="https://jirotubuyaki.github.io/gimp/thunder.png" width="280px" alt="thunder"/>
+  <img src="https://jirotubuyaki.github.io/gimp/thunder_index.png" width="280px" alt="thunder"/>
 </p>
 
 ###  Bayesian Nonparametric Package for Machine Learning
-We aim to develop bayesian nonparametric library by Scala & Julia. Lots of relate scientific papers are pubilshed.
+We aim to develop bayesian nonparametric package by Julia & R. Lots of relate scientific papers are pubilshed.
 We organize the papers and develop useful library. Firstly We will implement clustering methods and aim to release the first alpha version.
 
 
