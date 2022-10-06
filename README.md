@@ -22,11 +22,4 @@ My field is machine learning software and library. Especially I wish to develop 
 We aim to develop bayesian nonparametric package by Julia & R. Lots of relate scientific papers are pubilshed.
 We organize the papers and develop useful library. Firstly We will implement clustering methods and aim to release the first alpha version.
 
-#### Research
-* Bierkens, J., Fearnhead, P., &amp; Roberts, G. (2019). The zig-zag process and super-efficient sampling for Bayesian analysis of Big Data. The Annals of Statistics, 47(3). https://doi.org/10.1214/18-aos1715 
-* Sachs, M., Sen, D., Lu, J., &amp; Dunson, D. (2022). Posterior computation with the Gibbs zig-zag sampler. Bayesian Analysis, -1(-1). https://doi.org/10.1214/22-ba1319 
-* Casella, G., Mengersen, K. L., Robert, C. P., &amp; Titterington, D. M. (2002). Perfect samplers for mixtures of distributions. Journal of the Royal Statistical Society: Series B (Statistical Methodology), 64(4), 777–790. https://doi.org/10.1111/1467-9868.00360   
-* Neal, R. M. (2003). Slice sampling. The Annals of Statistics, 31(3). https://doi.org/10.1214/aos/1056562461  
-
-Recently I research these beyesian inferences.....  
 Thanks!!
