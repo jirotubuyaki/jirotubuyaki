@@ -4,6 +4,10 @@
   <img src="https://skillicons.dev/icons?i=scala,js,julia,r,java,php,html,css,linux,github,vscode,mysql"><br>
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=jirotubuyaki&color=blueviolet&style=for-the-badge">
+</p>
+
 ### Recent Results
 * Apache PredictionIO Pull Requests (Bayesian Nonparametric Chinese Restaurant Process Clustering)  [[URL]](https://github.com/apache/predictionio/pull/458)
 * R package CRAN accept (Monte Carlo Option Pricing Algorithms for Jump Diffusion Models with Correlational Companies)  [[URL]](https://cran.r-project.org/web/packages/Jdmbs/index.html)
@@ -31,4 +35,4 @@
 </p>
 
 ### Activity
-<img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirotubuyaki&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
+<img width="278" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirotubuyaki&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
