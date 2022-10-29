@@ -20,6 +20,7 @@
 <a href="https://github.com/jirotubuyaki/Jdmbs"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=Jdmbs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 <a href="https://github.com/jirotubuyaki/ThunderBayesR"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=ThunderBayesR&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 <a href="https://github.com/jirotubuyaki/predictionio-template-crp-clustering"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=predictionio-template-crp-clustering&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/jirotubuyaki/HTML5-Canvas-Vector-Physics"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=HTML5-Canvas-Vector-Physics&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
   
 ### Design & Art Works for HTML5 Canvas
