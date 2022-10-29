@@ -22,7 +22,7 @@
 <a href="https://github.com/jirotubuyaki/predictionio-template-crp-clustering"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=predictionio-template-crp-clustering&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
   
-### Design & Art Works
+### Design & Art Works for HTML5 Canvas
 <p align="left">
 <a href="https://github.com/jirotubuyaki/Random-Flower"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=Random-Flower&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/jirotubuyaki/Rose"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=Rose&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
