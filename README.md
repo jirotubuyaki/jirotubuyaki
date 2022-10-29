@@ -13,6 +13,7 @@
 * R package CRAN accept (Monte Carlo Option Pricing Algorithms for Jump Diffusion Models with Correlational Companies)  [[URL]](https://cran.r-project.org/web/packages/Jdmbs/index.html)
 * New Art Works Generative Arts Music Rose by CreateJS [[Rose]](https://github.com/jirotubuyaki/Rose)
 * New Art Works The particles for flat paths for design parts on web pages [[PathFlat]](https://github.com/jirotubuyaki/PathFlat)
+* New Physics Simulation by CreateJS [[Physics]](https://github.com/jirotubuyaki/HTML5-Canvas-Vector-Physics)
 
 ### Bayesian & Stochastics Works 
 <p align="left">
