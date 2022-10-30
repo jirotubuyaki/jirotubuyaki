@@ -1,7 +1,7 @@
 <p align="center"><img width="470px" src="https://raw.githubusercontent.com/jirotubuyaki/jirotubuyaki.github.io/master/gimp/profile.jpg"></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=scala,js,julia,r,java,php,html,css,linux,github,vscode,mysql"><br>
+  <img src="https://skillicons.dev/icons?i=scala,java,r,julia,php,js,html,css,linux,github,vscode,mysql"><br>
 </p>
 
 <p align="center">
