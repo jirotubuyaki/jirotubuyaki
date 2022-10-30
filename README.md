@@ -42,6 +42,4 @@
  <a href="https://github.com/jirotubuyaki/HTML5-Canvas-Animation-Flower"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=HTML5-Canvas-Animation-Flower&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/jirotubuyaki/HTML5-Canvas-Animation-PathFlat"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=HTML5-Canvas-Animation-PathFlat&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
-  
-### Activity
-<img width="278" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirotubuyaki&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
+
