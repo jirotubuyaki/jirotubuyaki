@@ -26,7 +26,7 @@
 </p>
   
 ### Design Parts for HTML5 Canvas
-* Please use it on your web pages.
+Please use it on your web pages.
 <p align="left">
 <a href="https://github.com/jirotubuyaki/HTML5-Canvas-Animation-FlowerRnd"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=HTML5-Canvas-Animation-FlowerRnd&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 <a href="https://github.com/jirotubuyaki/HTML5-Canvas-Animation-Clock"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=HTML5-Canvas-Animation-Clock&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
@@ -35,7 +35,7 @@
 </p>
 
 ### Art Works for HTML5 Canvas
-* Please modify & use it on your web pages.
+Please modify & use it on your web pages.
 <p align="left">
   <a href="https://github.com/jirotubuyaki/HTML5-Canvas-Animation-Rose"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=HTML5-Canvas-animation-Rose&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/jirotubuyaki/HTML5-Canvas-Animation-World"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=HTML5-Canvas-Animation-World&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
