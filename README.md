@@ -4,10 +4,6 @@
   <img src="https://skillicons.dev/icons?i=scala,java,r,julia,php,js,html,css,linux,github,vscode,mysql"><br>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=jirotubuyaki&color=blueviolet&style=for-the-badge">
-</p>
-
 ### Recent Results
 * Apache PredictionIO Pull Requests (Bayesian Nonparametric Chinese Restaurant Process Clustering)  [[URL]](https://github.com/apache/predictionio/pull/458)
 * R package CRAN accept (Monte Carlo Option Pricing Algorithms for Jump Diffusion Models with Correlational Companies)  [[URL]](https://cran.r-project.org/web/packages/Jdmbs/index.html)
