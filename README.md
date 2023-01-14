@@ -4,6 +4,8 @@
   <img src="https://skillicons.dev/icons?i=scala,java,r,julia,php,js,html,css,linux,github,maven,vscode,mysql"><br>
 </p>
 
+<!--
+
 ### Recent Results
 * Apache PredictionIO Pull Requests (Bayesian Nonparametric Chinese Restaurant Process Clustering)  [[URL]](https://github.com/apache/predictionio/pull/458)
 * R package CRAN accept (Monte Carlo Option Pricing Algorithms for Jump Diffusion Models with Correlational Companies)  [[URL]](https://cran.r-project.org/web/packages/Jdmbs/index.html)
@@ -40,3 +42,4 @@ Please modify & use it on your web pages.
   <a href="https://github.com/jirotubuyaki/HTML5-Canvas-Animation-PathFlat"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=jirotubuyaki&repo=HTML5-Canvas-Animation-PathFlat&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
+-->
