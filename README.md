@@ -1,4 +1,4 @@
-<p align="center"><img width="470px" src="https://raw.githubusercontent.com/jirotubuyaki/jirotubuyaki.github.io/master/gimp/profile.png"></p>
+<p align="center"><img width="400px" src="https://raw.githubusercontent.com/jirotubuyaki/jirotubuyaki.github.io/master/gimp/profile_3.png"></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=scala,java,rust,r,julia,php,js,html,css,linux,github,maven,vscode,mysql"><br>
